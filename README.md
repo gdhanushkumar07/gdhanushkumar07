@@ -1,4 +1,4 @@
-```md
+
 <h2 align="left">Hi 👋! I'm G Dhanush Kumar</h2>
 
 <h4 align="left">
